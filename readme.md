@@ -9,3 +9,7 @@
 代码位于word2vec.py中
 - 模型及训练           
 代码位于ddpg.py
+
+训练了过程如下： 
+![actor损失函数](https://github.com/searchlink/ddpg_rec/blob/master/image/actor.png)
+![critic损失函数](https://github.com/searchlink/ddpg_rec/blob/master/image/critic.png)
